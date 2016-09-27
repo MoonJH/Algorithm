@@ -5,3 +5,4 @@ This is algorithm test problems.
 3. Problem10828 is "Stack"
 4. Problem10845 is "Queue"
 5. Problem1874 is "Stack Progression"
+6. Problem10872 is "Factorial"

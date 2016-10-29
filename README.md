@@ -8,3 +8,4 @@ This is algorithm test problems.
 6. Problem10872 is "Factorial"
 7. Problem9012 is "VPN(Valid Parenthesis String)"
 8. Problem6588 is "Goldbach's conjecture"
+9. Problem10779 is "Iron Stick"
